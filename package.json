@@ -1,7 +1,7 @@
 {
   "name": "xmiot-cli",
-  "version": "1.0.1",
-  "description": "iot-cli for ximalaya",
+  "version": "1.0.3",
+  "description": "xmiot-cli for ximalaya",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,8 @@
     "iot-cli"
   ],
   "bin": {
-    "iot-cli": "bin/xmiot-cli",
-    "iot-cli-init": "bin/xmiot-cli-init"
+    "xmiot-cli": "bin/xmiot-cli",
+    "xmiot-cli-init": "bin/xmiot-cli-init"
   },
   "author": "luka",
   "license": "ISC",
